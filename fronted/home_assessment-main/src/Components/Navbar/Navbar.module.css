@@ -1,0 +1,21 @@
+.container{
+    width: 100%;
+    height: 72px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: end;
+}
+
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 20px;
+}
+.select{
+    padding: 5px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
